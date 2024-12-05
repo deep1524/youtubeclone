@@ -7,7 +7,7 @@ Clone of https://www.youtube.com/    YouTube is a free video sharing website tha
 ## Demo
 
 
-https://magical-paletas-a15e69.netlify.app
+https://mellow-donut-fcb79d.netlify.app/
 
 
 ## Features
